@@ -12,4 +12,4 @@ List for uBlacklist of personal blocked content farm domains, highly subjective 
 
    `Name`: `my-personal-lists`
 
-   `URL`: `https://raw.githubusercontent.com/DejavuMoe/spam-site-lists/master/uBlacklist.txt`
+   `URL`: `https://raw.githubusercontent.com/Ying-170/spam-site-lists/main/uBlacklist.txt`
